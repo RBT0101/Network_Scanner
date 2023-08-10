@@ -3,6 +3,6 @@ DISCLAIMER: This project is intended for educational and ethical purposes only. 
 
 The program will need to utilize root privileges for scanning.
 
-#Dependencies
+# Dependencies
 Please follow this link to download necessary dependencies: https://scapy.readthedocs.io/en/latest/installation.html
 
